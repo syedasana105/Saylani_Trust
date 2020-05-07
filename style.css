@@ -1,0 +1,108 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+#topbg{
+ background-color: #316DC3;   
+}
+
+#records{
+    background-color: rgba(36, 102, 243, 0.959);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#green{
+    color: #00FF00;
+}
+   #bluelnk{
+       color:rgb(27, 27, 196);
+   } 
+   #blue{
+       color: rgb(22, 97, 235);
+   }
+
+#green1{
+ color: #427900;
+ font-weight: 600;
+}
+#weight{
+    font-weight: 600;
+}
+.menu{
+    float: right;
+    margin-top:26px ;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    padding: 5px 15px;
+    color: rgb(7, 7, 7);
+    font-size: 14px;
+}
+.menu ul li a:hover {
+    background-color: #316DC3;
+color: #fff;
+font-weight: bold;
+border-radius: 15px;
+}
+
+.marquee{
+    width: 90%;
+    height: 30px;
+    background-color: rgb(49, 109, 195);
+    margin-left:  50px;
+    margin-top: 15px;
+}
+
+.marquee p{
+    color: white;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 13px;
+}
+/* RECORDS */
+#part1 img{
+    width: 15%;
+    height: 50px;
+}
+#part2 img{
+    width: 15%;
+    height: 50px;
+    
+}
+#part3 img{
+    width: 15%;
+    height: 50px;
+}
+#part4 img{
+    width: 15%;
+    height: 50px;
+}
+/* what we do */
+#part5 img{
+    width:25%;
+    height: 50px;
+}
+.seprator {
+    width: 70px;
+    height: 3px;
+    background-color: rgb(32, 141, 32);
+    display: block;
+}
+.projects marquee {
+    height:200px;
+}
+
+
+#gallery img{
+    width: 180px;
+    height: 200px;    
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+#line {
+    width: 70px;
+    height: 3px;
+    background-color: rgb(32, 141, 32);
+    display: block;
+}
